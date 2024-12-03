@@ -1,0 +1,1 @@
+jQuery(document).ready(function(n){jQuery(document.body).on("added_to_wishlist removed_from_wishlist added_to_cart",function(){n.ajax({beforeSend:function(){},complete:function(){},data:{action:"update_wishlist_count"},success:function(t){n(".wishlist-box span.wl-counter").html(t)},url:yith_wcwl_l10n.ajax_url})})});

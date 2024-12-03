@@ -1,0 +1,32 @@
+<wpml-config>
+	<admin-texts>
+		<key name="shoppingcart_theme_options">
+			<key name="shoppingcart_search_text" />
+			<key name="shoppingcart_tag_text" />
+			<key name="shoppingcart_features_title" />
+			<key name="shoppingcart_features_description" />
+			<key name="shoppingcart_categories_features_title" />
+			<key name="shoppingcart_categories_features_description" />
+			<key name="shoppingcart_img-product-promotion-image-1" />
+			<key name="shoppingcart_img-product-promotion-image-2" />
+			<key name="shoppingcart_img-product-promotion-image-3" />
+			<key name="shoppingcart_img-product-promotion-image-4" />
+			<key name="shoppingcart_img-product-promotion-image-5" />
+			<key name="shoppingcart_img-product-promotion-image-6" />
+			<key name="shoppingcart_img-product-promotion-image-7" />
+			<key name="shoppingcart_img-product-promotion-image-8" />
+			<key name="shoppingcart_img-product-promotion-image-9" />
+			<key name="shoppingcart_img-product-promotion-image-10" />
+			<key name="shoppingcart_product_promotion_url_1" />
+			<key name="shoppingcart_product_promotion_url_2" />
+			<key name="shoppingcart_product_promotion_url_3" />
+			<key name="shoppingcart_product_promotion_url_4" />
+			<key name="shoppingcart_product_promotion_url_5" />
+			<key name="shoppingcart_product_promotion_url_6" />
+			<key name="shoppingcart_product_promotion_url_7" />
+			<key name="shoppingcart_product_promotion_url_8" />
+			<key name="shoppingcart_product_promotion_url_9" />
+			<key name="shoppingcart_product_promotion_url_10" />
+		</key>
+	</admin-texts>
+</wpml-config>
